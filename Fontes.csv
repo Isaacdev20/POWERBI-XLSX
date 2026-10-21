@@ -1,4 +1,5 @@
-﻿F001;PIB_organizado.xlsx;Tabela;;239360
+﻿Id;Arquivo;Aba;Detalhe;Registros
+F001;PIB_organizado.xlsx;Tabela;;239360
 F002;PIB_organizado.xlsx;População;6579 - Estimativa;122479
 F003;PIB_organizado.xlsx;População;793 - Contagem 2007;5564
 F004;PIB_organizado.xlsx;População;608 - Censo 2010;5565
@@ -20,4 +21,3 @@ F019;Inflação, Selic, Crédito.xlsx;Câmbio;;94
 F020;Inflação, Selic, Crédito.xlsx;Crédito Brasil;;92
 F021;Inflação, Selic, Crédito.xlsx;Resumo;;32
 F022;Inflação, Selic, Crédito.xlsx;Crédito;;14
-Id;Arquivo;Aba;Detalhe;Registros
